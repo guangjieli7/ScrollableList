@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scrollable List</string>
+    <string name="caption_1">A honey bee.</string>
+    <string name="caption_2">A bumblebee.</string>
+    <string name="caption_3">A stingless bee.</string>
+    <string name="caption_4">A carpenter bee.</string>
+    <string name="caption_5">A leafcutter bee.</string>
+    <string name="caption_6">A mason bee.</string>
+    <string name="caption_7">An orchid bee.</string>
+    <string name="caption_8">A sweat bee.</string>
+    <string name="caption_9">A mining bee.</string>
+    <string name="caption_10">A plasterer bee.</string>
+</resources>
